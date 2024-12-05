@@ -1,4 +1,4 @@
-// Sticky navbar effect
+
 window.addEventListener('scroll', () => {
     const navbar = document.getElementById('navbar');
     if (window.scrollY > 50) {
